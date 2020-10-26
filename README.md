@@ -40,3 +40,11 @@
             3 -> Redirection (301: Movido  Permaninentimente, 302 Movido)
             4 -> Client Error(400: BAD REQUEST, 401 UNAUTHORIZED, 404: NOT FOUND)  
 
+# MÉTODOS http
+
+   GET  -> Utilizado para buscar informações do backend
+   POST -> Criar inforação no BACKEND
+   PUT  -> Alterar informação no BACKEND
+   PATH -> Atualiza informação expecífica no backend
+   DELETE -> Deletar uma inforção no backend
+
