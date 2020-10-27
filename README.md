@@ -48,3 +48,13 @@
    PATH -> Atualiza informação expecífica no backend
    DELETE -> Deletar uma inforção no backend
 
+# Tipos de Parametros   
+    Query Params: Filtros e Paginação
+    Route Params: Inditicar recursos na hora de atualizar ou deletar
+    Reques Body: Conteúdo na hora de criar ou editar o conteúdo
+
+# Middleware
+    - Interceptador de requisições
+    - Pode interroper totalmente uma requisição ou alterar dados
+    - Todas as rotas podem ser consideradas middleware
+
